@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Vlad
 
 * 🇷🇺 I live in Moscow, Russia.
-* 🤖 I write code for 3 years, most of the time on Python, Nextflow and Shell but I also dream of learning Go.
+* 🤖 I've been writing code for 3 years now, most of the time on Python, Nextflow and Shell (but I also dream of learning Go).
 * 🐕 I’m passionate about pet-projects, they contribute to my professional growth throughout my life.
-* 🧬 I write scripts in biophnormatics, analyze human genomes for single-nucleotide mutations.
+* 🧬 I write scripts in bioinnormatics, analyze human genomes for single-nucleotide mutations.
 * ✉️ Feel free to contact me [via email](mailto:nachatoi@list.ru) or [telegram](https://t.me/subpolare).
 
 ## 🛠 My sleek badge showcase
